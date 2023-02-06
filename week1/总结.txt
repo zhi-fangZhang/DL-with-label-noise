@@ -1,0 +1,8 @@
+1. 读论文 'A brief introduction to weakly supervised learning' 
+2. 看了两个关于label noise 的 tutorial *
+3. 读论文 'Learning from Noisy Labels with Deep Neural Networks, A Survey'
+4. 读论文 'TRAINING DEEP NEURAL-NETWORKS USING A NOISE ADAPTATION LAYER' 
+4. 学习了《统计学习方法》和西瓜书的第一章,并学习了EM算法和朴素贝叶斯
+
+*: https://www.bilibili.com/video/BV18g411x78d/?spm_id_from=333.337.search-card.all.click&vd_source=505a8019655996ffe144ee46be5c41aa
+   https://www.bilibili.com/video/BV1oW4y1U7Tr/?spm_id_from=333.337.search-card.all.click
