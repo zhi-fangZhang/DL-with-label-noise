@@ -7,4 +7,6 @@
 	6.Learning From Noisy Labels By Regularized Estimation Of Annotator Confusion. CVPR 2019
 	7.Early-Learning Regularization Prevents Memorization of Noisy Labels. NeurIPS 2020
 	8.Robust early-learning: Hindering the memorization of noisy label. ICLR 2021
+	9.DivideMix: Learning with noisy labels as semi-supervised learning. ICLR 2020
+	10.SELF: Learning to Filter Noisy Labels with Self-Ensembling. ICLR 2020
 阅读《Machine Learning from Weak Supervision An Empirical Risk Minimization Approach》的 partial label learning部分
