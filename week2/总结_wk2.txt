@@ -1,0 +1,10 @@
+阅读论文并做笔记：
+	1.learning from crowds 
+	2.Co-teaching: Robust training of deep neural networks with extremely noisy labels. NeurIPS 2018
+	3.Decoupling "when to update" from "how to update"
+	4.Combating Noisy Labels by Agreement: A Joint Training Method with Co-Regularization. CVPR 2020
+	5.Joint Optimization Framework for Learning with Noisy Labels. CVPR 2018
+	6.Learning From Noisy Labels By Regularized Estimation Of Annotator Confusion. CVPR 2019
+	7.Early-Learning Regularization Prevents Memorization of Noisy Labels. NeurIPS 2020
+	8.Robust early-learning: Hindering the memorization of noisy label. ICLR 2021
+阅读《Machine Learning from Weak Supervision An Empirical Risk Minimization Approach》的 partial label learning部分
